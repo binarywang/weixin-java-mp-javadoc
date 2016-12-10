@@ -6,6 +6,7 @@ me.chanjar.weixin.mp.bean.kefu
 me.chanjar.weixin.mp.bean.kefu.request
 me.chanjar.weixin.mp.bean.kefu.result
 me.chanjar.weixin.mp.bean.material
+me.chanjar.weixin.mp.bean.menu
 me.chanjar.weixin.mp.bean.message
 me.chanjar.weixin.mp.bean.pay
 me.chanjar.weixin.mp.bean.pay.request
