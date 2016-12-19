@@ -2,6 +2,7 @@ me.chanjar.weixin.mp.api
 me.chanjar.weixin.mp.api.impl
 me.chanjar.weixin.mp.bean
 me.chanjar.weixin.mp.bean.datacube
+me.chanjar.weixin.mp.bean.device
 me.chanjar.weixin.mp.bean.kefu
 me.chanjar.weixin.mp.bean.kefu.request
 me.chanjar.weixin.mp.bean.kefu.result
