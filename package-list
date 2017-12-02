@@ -11,6 +11,7 @@ me.chanjar.weixin.mp.bean.membercard
 me.chanjar.weixin.mp.bean.menu
 me.chanjar.weixin.mp.bean.message
 me.chanjar.weixin.mp.bean.result
+me.chanjar.weixin.mp.bean.shake
 me.chanjar.weixin.mp.bean.store
 me.chanjar.weixin.mp.bean.tag
 me.chanjar.weixin.mp.bean.template
