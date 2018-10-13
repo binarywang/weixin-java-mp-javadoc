@@ -2,6 +2,8 @@ me.chanjar.weixin.mp
 me.chanjar.weixin.mp.api
 me.chanjar.weixin.mp.api.impl
 me.chanjar.weixin.mp.bean
+me.chanjar.weixin.mp.bean.card
+me.chanjar.weixin.mp.bean.card.enums
 me.chanjar.weixin.mp.bean.datacube
 me.chanjar.weixin.mp.bean.device
 me.chanjar.weixin.mp.bean.kefu
