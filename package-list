@@ -1,4 +1,3 @@
-me.chanjar.weixin.mp
 me.chanjar.weixin.mp.api
 me.chanjar.weixin.mp.api.impl
 me.chanjar.weixin.mp.bean
@@ -23,6 +22,7 @@ me.chanjar.weixin.mp.bean.wifi
 me.chanjar.weixin.mp.builder.kefu
 me.chanjar.weixin.mp.builder.outxml
 me.chanjar.weixin.mp.constant
+me.chanjar.weixin.mp.enums
 me.chanjar.weixin.mp.util.crypto
 me.chanjar.weixin.mp.util.json
 me.chanjar.weixin.mp.util.requestexecuter.material
