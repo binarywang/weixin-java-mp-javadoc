@@ -8,6 +8,7 @@ me.chanjar.weixin.mp.bean.device
 me.chanjar.weixin.mp.bean.kefu
 me.chanjar.weixin.mp.bean.kefu.request
 me.chanjar.weixin.mp.bean.kefu.result
+me.chanjar.weixin.mp.bean.marketing
 me.chanjar.weixin.mp.bean.material
 me.chanjar.weixin.mp.bean.membercard
 me.chanjar.weixin.mp.bean.menu
@@ -23,6 +24,7 @@ me.chanjar.weixin.mp.builder.kefu
 me.chanjar.weixin.mp.builder.outxml
 me.chanjar.weixin.mp.constant
 me.chanjar.weixin.mp.enums
+me.chanjar.weixin.mp.util
 me.chanjar.weixin.mp.util.crypto
 me.chanjar.weixin.mp.util.json
 me.chanjar.weixin.mp.util.requestexecuter.material
