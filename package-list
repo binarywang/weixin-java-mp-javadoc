@@ -13,6 +13,7 @@ me.chanjar.weixin.mp.bean.material
 me.chanjar.weixin.mp.bean.membercard
 me.chanjar.weixin.mp.bean.menu
 me.chanjar.weixin.mp.bean.message
+me.chanjar.weixin.mp.bean.ocr
 me.chanjar.weixin.mp.bean.result
 me.chanjar.weixin.mp.bean.shake
 me.chanjar.weixin.mp.bean.store
@@ -22,6 +23,8 @@ me.chanjar.weixin.mp.bean.template
 me.chanjar.weixin.mp.bean.wifi
 me.chanjar.weixin.mp.builder.kefu
 me.chanjar.weixin.mp.builder.outxml
+me.chanjar.weixin.mp.config
+me.chanjar.weixin.mp.config.impl
 me.chanjar.weixin.mp.constant
 me.chanjar.weixin.mp.enums
 me.chanjar.weixin.mp.util
